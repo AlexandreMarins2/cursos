@@ -4,12 +4,14 @@ console.log('Linha 1')
 
 /*
 Comentário de
-múltiplas linha
+múltiplas linhas
 */
+
+console.log('linha 2')
 
 /*
  * Comentário de
- * várias linha
+ * várias linhas
  * com tópicos em asterísco colocados pela IDE.
 */
 
